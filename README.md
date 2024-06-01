@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil-Saurav
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Java+DSA
+- 🌱 I’m currently learning Android Development(Kotlin + JetPack Compose)
 
 <!---
 Sahil-Saurav/Sahil-Saurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
